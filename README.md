@@ -16,17 +16,17 @@ A simple RESTful API that simulates core banking services like account creation,
 #### 📡 [Kafka Event Stream Demo](https://github.com/lwkiambo/kafka-demo)
 A basic Kafka-driven microservice setup that demonstrates publishing and consuming financial transaction events.
 
-#### 📱 [USSD Simulator](https://github.com/lwkiamboussd-simulator)
+#### 📱 [USSD Simulator](https://github.com/lwkiambo/ussd-simulator)
 Command-line USSD menu flow simulator for quick prototyping, useful for telco integration.
 
 ---
 
 ### ✨ About Me
 
-With experience in fintech and telco integrations, I’ve worked on building secure APIs, handling real-time messaging with Kafka, and managing data across systems using Redis and MySQL. I’m passionate about clean code, automation, and building reliable backend systems.
+I'm a backend developer passionate about building reliable, scalable systems. With experience in fintech and telco integrations, I’ve developed secure APIs, designed message-driven services using Kafka, and optimized data access using Redis and MySQL. I enjoy learning, automating repetitive tasks, and collaborating on impactful solutions.
 
 ---
 
 ### 📫 Let’s Connect
 
-https://www.linkedin.com/in/lilian-kiambo/
+[LinkedIn](https://www.linkedin.com/in/lilian-kiambo/)
